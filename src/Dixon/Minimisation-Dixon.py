@@ -300,6 +300,19 @@ plt.plot(minFit_data2, label="Roulette Wheel")
 # Min Fitness: 0.007425401966637338 - TS
 # Min Fitness: 0.0040744373402650386 - RW
 
+# N = 20
+# GENERATIONS = 600
+# MUTRATE = 0.03
+# MUTSTEP = 1.0
+# Min Fitness: 0.05119283714324845 - TS
+# Min Fitness: 0.15968898957511664 - RW
+
+# N = 30
+# GENERATIONS = 600
+# MUTRATE = 0.03
+# MUTSTEP = 1.0
+# Min Fitness: 0.6444373881400292 - TS
+# Min Fitness: 0.702424104503806 - RW
 
 # N = 10
 # GENERATIONS = 2000
